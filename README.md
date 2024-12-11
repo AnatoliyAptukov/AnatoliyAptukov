@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AnatoliyAptukov
 - 👀 I’m interested in creating new things and enjoying nature
-- 🌱 I’m currently learning my stack in parallel developing applications on it, as well as studying people management.I'm also learning English.
-- 💞️ I’m looking to collaborate on ...
 - 📫 My email is aptukov.anatoliy@mail.ru
 - ⚡ Fun fact: I have no tatoos
 
